@@ -1,0 +1,37 @@
+html,
+body,
+#root {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
+
+.fill-height {
+    flex-grow: 1;
+    width: 100%;
+}
+
+/* https://coolors.co/e8c547-30323d-4d5061-5c80bc-cdd1c4 */
+.color-saffron {
+    background-color: #E8C547;
+}
+
+.color-jet {
+    color: #30323D;
+}
+
+.color-davys-grey {
+    color: #4D5061;
+}
+
+.color-glaucous {
+    color: #5C80BC;
+}
+
+.color-ash-gray {
+    color: #CDD1C4;
+}
+/* Done color palette */
